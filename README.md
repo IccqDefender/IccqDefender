@@ -1,4 +1,9 @@
-## Anyone wanna play whith CPP?
+## 👋 Hi! Welcome to my profile 👋
+
+🤔 I'm an ordinary C++ developer who tries to get by in the IT field.
+🔍 In my profile you can find my first and latest projects. Free to use for everyone!
+
+## ⚠️ Anyone wanna play whith CPP? ⚠️
 ![Alt text for the image](https://i.pinimg.com/736x/07/b7/92/07b79256d6a87b8b0f8ba0b899ee5124.jpg)
 
 <!--
