@@ -3,22 +3,32 @@
 -  🔍 In my profile you can find my first and latest projects. **Free** to use for everyone!
 ##
 
-### 🛠️ My main directions 🛠️
+## 🛠️ **My main directions** 🛠️
 - ⌨️ **C/C++** Development
 - 🕵️ **Pentesting**
 - 🔧 **Reverse Engineering**
 ##
 
-### 💪 My skills 💪
-- 🔥 Python 
-- 🔥 C/C++  
-- 🔥 bash   
-- 🔥 lua 
-- ⚙️ GNU/Linux
-- 🌐 Networks
+## 💪 **My skills** 💪
+- 🔥 **Python**
+- 🔥 **C/C++**  
+- 🔥 **bash**   
+- 🔥 **lua** 
+- ⚙️ **GNU/Linux**
+- 🌐 **Networks**
 ##
 
-### 📄 TASKS 📄
+## 🖥️ **My setup** 🖥️
+- CPU: **Ryzen 5 7500f**
+- GPU: **NVIDIA RTX 5070**
+- RAM: **32 GiB**
+- Monitors: **1920x1080@240HZ**
+- OS: **Arch/Kali** *Linux* / **Windows 11**
+- WM: **Hyprland/KDE**
+- Shell: **zsh/fish**
+##
+
+## 📄 **TASKS** 📄
 - [x] BE **POOR**
 - [ ] BE **REACH**
 ##
